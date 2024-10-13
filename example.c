@@ -7,6 +7,8 @@ void main(void)
     int a=10,b=39,sum;
     sum=a+b;
     printf("sum=%d",sum);
+    printf("end of the program!");
+
     
 
 }
